@@ -1,0 +1,53 @@
+body{
+    background-color: #f7e8f0;
+}
+.container{
+    margin-bottom: 100px;
+}
+.btn-banner{
+    margin-top: 50px;
+}
+
+.carousel-item{
+    padding: 7% 15%;
+    background-color: #f7e8f0;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 4px 10px lightcyan;
+}
+.card-footer{
+    background-color: #fff;
+    border-top:none;
+
+}
+h4{
+    color:lightgreen;
+}
+.my-cat{
+    border-bottom: 5px solid greenyellow;
+    border-radius: 5px;
+}
+.pale-img{
+    width: 400px;
+    height: 300px;
+}
+.my-bag{
+    padding:20px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 4px 10px lightcyan;
+}
+.perfume{
+    margin: 40px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 4px 10px lightcyan;
+}
+.shoes{
+    margin: 40px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 4px 10px lightcyan;
+}
